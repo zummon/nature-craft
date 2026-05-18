@@ -157,6 +157,7 @@
 						<div class="flex gap-3">
 							<button
 								class="w-11 h-11 rounded-full bg-white border border-stone-200 shadow-sm flex items-center justify-center text-stone-500 hover:bg-stone-50 hover:text-stone-800 hover:border-stone-300 transition-all"
+								title=""
 							>
 								<svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"
 									><path
@@ -166,6 +167,7 @@
 							</button>
 							<button
 								class="w-11 h-11 rounded-full bg-white border border-stone-200 shadow-sm flex items-center justify-center text-stone-500 hover:bg-stone-50 hover:text-stone-800 hover:border-stone-300 transition-all"
+								title=""
 							>
 								<svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"
 									><path
