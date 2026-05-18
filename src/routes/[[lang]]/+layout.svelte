@@ -50,9 +50,15 @@
 						</span>
 					</a>
 					<p class="text-stone-400 text-sm leading-relaxed max-w-sm">
-						Connecting you with the beauty of the outdoors. Upcycled,
-						eco-friendly, and handcrafted materials for your next creative
-						adventure.
+						Made by Ai, <a
+							class="text-amber-400 underline"
+							target="_blank"
+							href="https://github.com/zummon"
+						>
+							Teerapat Anantarattanachai
+						</a>
+						<br />
+						Something breaks, needs upgrade. Let me know
 					</p>
 					<div class="flex gap-4 mt-6">
 						<a
